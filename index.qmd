@@ -1,0 +1,17 @@
+---
+title: "My Document"
+format: html
+execute: 
+  enabled: false
+
+---
+## dicking
+
+```{octave}
+
+1_0000+1_000
+
+```
+
+
+

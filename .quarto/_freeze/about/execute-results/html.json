@@ -1,0 +1,11 @@
+{
+  "hash": "828815cc850d8bf1193031e19fc244a9",
+  "result": {
+    "markdown": "```{any}\nfib = ones(1, 10);\ni = 3;\nwhile i <= 10\n  fib(i) = fib(i – 1) + fib(i – 2);\n  i++;\nendwhile\ndisp(fib)\n\n\n```\n\n",
+    "supporting": [
+      "about_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
