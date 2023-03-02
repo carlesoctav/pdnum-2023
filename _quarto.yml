@@ -8,6 +8,11 @@ website:
       - text: "sains-data"
         href: https://carlesoctav.github.io/sains-data-2023/
 
+
+    right: 
+      - icon: github
+        href: https://carlesoctav.github.io/pdnum-2023/
+
   sidebar:
     contents: module/*
 
