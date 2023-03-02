@@ -1,5 +1,4 @@
 ---
-title: "Praktikum Pd-Num Minggu 2"
 format: html
 execute: 
   enabled: false
