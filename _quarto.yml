@@ -15,8 +15,7 @@ website:
         href: https://carlesoctav.github.io/pdnum-2023/
 
   sidebar:
-    contents: module/*
-
+    contents: module
 
 format:
   html:
