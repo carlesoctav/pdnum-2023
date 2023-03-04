@@ -4,7 +4,7 @@ execute:
   enabled: false
 ---
 
-# Week-03 (Metode Euler dan Rungge-Kutta) 
+# Week-02.2 (Metode Euler dan Rungge-Kutta) 
 
 ## Metode Euler
 

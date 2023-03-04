@@ -12,10 +12,14 @@ website:
 
     right: 
       - icon: github
-        href: https://carlesoctav.github.io/pdnum-2023/
+        href: https://github.com/carlesoctav/pdnum-2023
 
   sidebar:
-    contents: module
+    contents:
+      - section: Module
+        contents: module/*
+      - section: Tugas
+        contents: tugas/*
 
 format:
   html:
