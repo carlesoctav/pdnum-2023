@@ -75,10 +75,11 @@ maka kita dapat mendefinisikan `f=@(t, y)\left(y-t^{\wedge} 2+1\right)`, a=0, b=
 
 
 ```{python}
-f = @(t, y) (y – t^2 + 1);
+f = @(t, y) (y-t^2 + 1);
 a = 0;
 b = 2;
 n = 10;
+alpha= 0.5;
 [t_euler, w_euler] = euler(f, a, b, n, alpha)
 ```
 
@@ -94,7 +95,7 @@ fplot(sln, [0, 2], 'b');
 hold on;
 scatter(t_euler, w_euler, 'r');
 legend('Solusi eksak', 'Metode Euler');
-title(‘Metode Euler’)
+title("Metode Euler")
 ```
 
 Saat dijalankan, akan muncul jendela pop-up yang berisi plot yang telah dibuat.
@@ -166,7 +167,7 @@ endfunction
 
 
 ```{python}
-function [t, w] = euler(f, a, b, n, alpha)
+function [t, w] = modeuler(f, a, b, n, alpha)
   h = (b - a) / n;
   t = zeros(n + 1, 1);
   w = zeros(n + 1, 1);

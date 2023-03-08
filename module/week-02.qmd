@@ -10,7 +10,6 @@ execute:
 
 Dalam pemrograman, seringkali pengguna diminta memberi suatu input, entah suatu nilai, string, dll., ke program, lalu program tersebut akan menggunakan input tersebut sebagai nilai dari suatu variabel. Hal ini juga dapat dilakukan pada Octave. Untuk membuat Octave meminta input dari user, gunakan syntax input(prompt), dengan prompt adalah string yang berisi pesan dalam input.
 
-
 ```{python}
     A = input("Masukkan suatu angka:")
 ```
