@@ -21,6 +21,10 @@ website:
       - section: Tugas
         contents: tugas/*
 
+  comments:
+    giscus:
+      repo: carlesoctav/pdnum-2023
+
 format:
   html:
     theme: litera
