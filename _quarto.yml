@@ -19,7 +19,7 @@ website:
       - section: Module
         contents: module/*
       - section: Tugas
-        contents: tugas/*
+        contents: tugas-pd/*
 
   comments:
     giscus:
