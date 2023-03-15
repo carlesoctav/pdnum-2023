@@ -16,9 +16,9 @@ website:
 
   sidebar:
     contents:
-      - section: Module
+      - section: module
         contents: module/*
-      - section: Tugas
+      - section: tugas
         contents: tugas-pd/*
 
   comments:
