@@ -54,3 +54,6 @@ $$
 a. Gunakan tiga metode one-step pilihan Anda untuk mengaproksimasi dan membandingkan solusi dari IVP tersebut menggunakan stepsize $h=0.05$.
 
 b. Buatlah grafik perbandingan dari metode tersebut. 
+
+
+
