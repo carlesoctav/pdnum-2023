@@ -75,5 +75,12 @@
     "title": "pdnum-2023",
     "section": "SOAL",
     "text": "SOAL\n\\[\n\\begin{aligned}\n& y^{\\prime}=\\frac{y^{2}}{1+t}, \\quad 1 \\leq t \\leq 2 \\\\\n& y(1)=-(\\ln 2)^{-1}\n\\end{aligned}\n\\]\nDiketahui solusi eksak dari IVP tersebut adalah:\n\\[\ny(t)=-\\frac{1}{\\ln (t+1)}\n\\]\n\nGunakan tiga metode one-step pilihan Anda untuk mengaproksimasi dan membandingkan solusi dari IVP tersebut menggunakan stepsize \\(h=0.05\\).\nBuatlah grafik perbandingan dari metode tersebut."
+  },
+  {
+    "objectID": "tugas-pd/tugas-03.html",
+    "href": "tugas-pd/tugas-03.html",
+    "title": "pdnum-2023",
+    "section": "",
+    "text": "Tugas ini dikerjakan secara individu.\nTerdapat satu (1) soal yang harus dijawab.\nFile yang harus diunggah terdiri dari:\n\nbeberapa function file sesuai kebutuhan. Penamaan untuk function file dibebaskan, selama masih relevan dengan isi fungsinya (dilarang menamakan function file “adamsorde5.m” jika isinya adalah metode Runge-Kutta).\nsatu (1) script file untuk jawaban. Penamaannya adalah “soal.m” untuk soal yang diberikan.\nsatu (1) file PDF untuk penjelasan keseluruhan soal. Penjelasan diketik dalam Word atau sejenisnya dengan format penamaan “Penjelasan.pdf”.\n\nSemua file disatukan dalam satu file .zip dengan format penamaan:\n\n[Nama]_[NPM]_[Kelas SIAK]_Tugas 1_Prak PDNum.zip\nContoh: “Cristiano-Ronaldo_2101234567_C_Tugas 1_Prak PDNum.zip”\n\nBatas pengumpulan tugas ini adalah Selasa, 21 April 2023, pukul 23.59 WIB.\n\nTugas dikumpulkan melalui gform sesuai dengan kelas masing-masing:\nLink: [TODO] buat link\n\nDilarang melakukan plagiarisme. Jika terdapat mahasisya yang terindikasi melakukan plagiarisme, maka mahasiswa tersebut memperoleh nilai 0 untuk tugas ini.\nApabila ada yang ingin ditanyakan anda dapat bertanya pada kolom komentar atau, silakan mengontak salah satu kontak berikut:\n\nLINE: Carles_Octavianus (carles)\n\n\n\n\n\n\n\nUbahlah 2 metode persamaan differential numerik (dapat berupa metode single-step ataupun multi-step) favorit (selain runge-kutta tentunya) menjadi metode yang dapat menyelesaikan persamaan differensial.\ngunakan kedua metode tersebut unutk menyelesaikan persamaan differensial berikut:\n\\(y^{\\prime \\prime}-2 y^{\\prime}+y=t e^t-t, \\quad 0 \\leq t \\leq 1, \\quad y(0)=y^{\\prime}(0)=0\\), dengan \\(h=0.1\\) dengan solusi analitiknya: \\(y(t)=\\frac{1}{6} t^3 e^t-t e^t+2 e^t-t-2\\)\ndan Buatlah grafik perbandingan dari metode tersebut."
   }
 ]
