@@ -21,11 +21,11 @@
 
 Contoh: "Cristiano-Ronaldo_2101234567_C_Tugas 1_Prak PDNum.zip"
 
-5. Batas pengumpulan tugas ini adalah Selasa, 21 April  2023, pukul 23.59 WIB.
+5. Batas pengumpulan tugas ini adalah 16 April  2023, pukul 23.59 WIB.
 
 Tugas dikumpulkan melalui gform sesuai dengan kelas masing-masing:
 
-Link:  [TODO] buat link
+Link: [ristek.link/Tugas3PrakPDNum](ristek.link/Tugas3PrakPDNum)
 
 
 6. Dilarang melakukan **plagiarisme**. Jika terdapat mahasisya yang terindikasi melakukan plagiarisme, **maka mahasiswa tersebut memperoleh nilai 0** untuk tugas ini.
@@ -38,7 +38,7 @@ Link:  [TODO] buat link
 
 ### Soal 1
 
-Ubahlah 2 metode persamaan differential numerik (dapat berupa metode single-step ataupun multi-step) favorit (selain runge-kutta tentunya) menjadi metode yang dapat menyelesaikan persamaan differensial.
+Ubahlah 2 metode persamaan differential numerik (dapat berupa metode single-step ataupun multi-step) favorit (selain runge-kutta tentunya) menjadi metode yang dapat menyelesaikan sistem persamaan differensial.
 
 gunakan  kedua metode tersebut unutk menyelesaikan persamaan differensial berikut:
 
