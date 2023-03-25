@@ -36,7 +36,7 @@ Link: [ristek.link/Tugas3PrakPDNum](ristek.link/Tugas3PrakPDNum)
 
 ## SOAL
 
-### Soal 1
+### Sfixfoal 1
 
 Ubahlah 2 metode persamaan differential numerik (dapat berupa metode single-step ataupun multi-step) favorit (selain runge-kutta tentunya) menjadi metode yang dapat menyelesaikan sistem persamaan differensial.
 
