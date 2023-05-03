@@ -23,9 +23,9 @@ website:
       - section: tugas
         contents: tugas-pd/*
 
-  # comments:
-  #   giscus:
-  #     repo: carlesoctav/pdnum-2023
+  comments:
+    giscus:
+      repo: carlesoctav/pdnum-2023
 
 format:
   html:
