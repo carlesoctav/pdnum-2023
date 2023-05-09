@@ -13,13 +13,19 @@ website:
     right: 
       - icon: github
         href: https://github.com/carlesoctav/pdnum-2023
+      - icon: twitter
+        href: https://twitter.com/carlesoctav
 
   sidebar:
     contents:
-      - section: Module
+      - section: module
         contents: module/*
-      - section: Tugas
-        contents: tugas/*
+      - section: tugas
+        contents: tugas-pd/*
+
+  comments:
+    giscus:
+      repo: carlesoctav/pdnum-2023
 
 format:
   html:

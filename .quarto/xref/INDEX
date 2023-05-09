@@ -40,5 +40,20 @@
   },
   "tugas/tugas-01.qmd": {
     "tugas-01.html": "4164f7f6"
+  },
+  "tugas-pd/tugas-01.qmd": {
+    "tugas-01.html": "728e7c01"
+  },
+  "tugas-pd/tugas-03.qmd": {
+    "tugas-03.html": "5a6a1e8b"
+  },
+  "tugas-pd/tugas-02.ipynb": {
+    "tugas-02.html": "27a9b2c7"
+  },
+  "module/week-04.ipynb": {
+    "week-04.html": "1504d49e"
+  },
+  "module/week-05.ipynb": {
+    "week-05.html": "7738716c"
   }
 }
